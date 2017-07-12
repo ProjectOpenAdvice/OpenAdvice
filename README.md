@@ -30,6 +30,6 @@ Please note that it's very important to us that we maintain a positive and suppo
 
 ### Licence
 
-The content of this website is released into the public domain under the [CC0 dedication](https://creativecommons.org/publicdomain/zero/1.0/), as detailed in this repository's [LICENSE](https://github.com/KirstieJane/OpenAdvice/blob/master/LICENSE) file.
+The content of this website is released into the public domain under the [CC0 dedication](https://creativecommons.org/publicdomain/zero/1.0/), as detailed in this repository's [LICENSE](https://github.com/ProjectOpenAdvice/ProjectOpenAdvice.github.io/blob/master/LICENSE) file.
 
 The source code for the website itself is licensed under the [MIT License](https://opensource.org/licenses/MIT).
